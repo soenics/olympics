@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+
+.tilteone{
+    font-size: 50px;
+}
+.linka{
+    
+    font-size: 18px;
+}
+.jumbotron{
+    background-image:url(image/backg.jpg);
+    background-size: cover;
+}
+.navbar{
+    backdrop-filter: blur(15px);
+}
+body{
+    background: url(image/backg.jpg);
+}
+.linka:hover{
+    font-size: 30px;
+    
+    
+}
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
